@@ -1,0 +1,7 @@
+1,Altex,Electronics
+2,H&M,Fashion
+3,MegaImage,Groceries
+4,Noriel,Entertaining
+5,MakeupShop,Cosmetics
+6,Dedeman,Furniture
+7,SexShop,Entertaining
